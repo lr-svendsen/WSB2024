@@ -1,5 +1,5 @@
 # WSB2024
-Documentation code WallStreetBets 2024 Project
+Documentation code for my WallStreetBets 2024 Project
 
 All python code has been written in jupyternotebooks. I've used the following structure:
 1. [**Data**](https://github.com/lr-svendsen/WSB2024Exam/blob/0ff63a433179dccb293fac4372630cf0f027e609/1.%20Data.ipynb)
